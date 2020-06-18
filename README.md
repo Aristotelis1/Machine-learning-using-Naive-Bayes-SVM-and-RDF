@@ -6,6 +6,7 @@ Also, I calculate f1 score and the accuracy for every algorithm
 
 
 
+
 /* -------------- Data info ------------------*/
 
 
