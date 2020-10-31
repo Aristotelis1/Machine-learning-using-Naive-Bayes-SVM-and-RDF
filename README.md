@@ -1,4 +1,4 @@
-# Machine-learning-using-Naive-Bayes-SVM-and-RDF
+# Machine-learning-using-Naive-Bayes-SVM-and-RF
 
 Using Naive Bayes, SVM and RDF to predict if a comment is offensive or not.
 
